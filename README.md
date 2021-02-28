@@ -36,3 +36,12 @@ https://beresivan.github.io/WeatherAPI/
 * to further develope go to the github repository: https://github.com/BeresIvan/WeatherAPI
 Clone the repository using the "git clone" command in the command line.
 Open the files in visual studio code using the ". code" command in the command line.
+
+The project was created by using:
+Visual Studio Code https://code.visualstudio.com/ 
+Git Bash https://gitforwindows.org/index.html
+github https://github.com/join
+Bootstrap https://getbootstrap.com/ 
+google fonts https://fonts.google.com/
+Fontawesome https://fontawesome.com/
+Open weather API https://openweathermap.org/api
