@@ -28,3 +28,11 @@ THEN I am presented with the last searched city forecast
 * The assets folder containes our images folder the script.js that gives the functionality to our app and the syle.css file that changes the general appearance of our page. https://github.com/BeresIvan/WeatherAPI/tree/main/assets
 * The index.html file gives the basic layout to our page. https://github.com/BeresIvan/WeatherAPI/blob/main/index.html
 
+## Installation and further development
+
+* You can use the Weather app by usink the link below:
+https://beresivan.github.io/WeatherAPI/
+
+* to further develope go to the github repository: https://github.com/BeresIvan/WeatherAPI
+Clone the repository using the "git clone" command in the command line.
+Open the files in visual studio code using the ". code" command in the command line.
